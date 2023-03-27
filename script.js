@@ -1,2 +1,2 @@
 //your code here
-return document.querySelector("#band.li").sort();
+return document.querySelector("#band li").sort();
