@@ -1,2 +1,2 @@
 //your code here
-return touristSports.sort();
+return document.querySelector("#band.li").sort();
